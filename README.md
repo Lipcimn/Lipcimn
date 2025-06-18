@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Eduardo! Currently studying for Computer Engineering at Universidade Santa Cecília<br><br>🔭 I’m currently working on a React Native App with Firebase for my University Project<br>👯 I’m looking to collaborate on React Apps, NodeJS and other various projects<br>🌱 I’m currently learning about multiples React/React Native Frameworks, Back-End API Fetching and Docker<br><br>Some of my repos are still private but i can't wait to make it public! 😇
+Hi, my name is Eduardo! Graduated in Computer Engineering at Universidade Santa Cecília - Brazil<br><br>🔭 Looking to collaborate on React Apps, NodeJS and other various software projects!<br>
 
 
 ## 🌐 Socials:
